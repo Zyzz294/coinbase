@@ -1,3 +1,15 @@
+# Coinbase Clone with ReactJS
+
+A Coinbase clone built using React. It fetches the data from Coin Gecko  API.
+
+## Author
+
+Hamza Özgezici (Zyzz294)
+
+# Demo
+
+The app is deployed using Firebase at [Coinbase Clone Link](https://cryptobase-6dbed.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
